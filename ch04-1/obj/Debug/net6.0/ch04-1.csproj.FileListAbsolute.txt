@@ -1,0 +1,15 @@
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\bin\Debug\net6.0\ch04-1.exe
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\bin\Debug\net6.0\ch04-1.deps.json
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\bin\Debug\net6.0\ch04-1.runtimeconfig.json
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\bin\Debug\net6.0\ch04-1.dll
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\bin\Debug\net6.0\ch04-1.pdb
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\obj\Debug\net6.0\ch04-1.csproj.AssemblyReference.cache
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\obj\Debug\net6.0\ch04-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\obj\Debug\net6.0\ch04-1.AssemblyInfoInputs.cache
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\obj\Debug\net6.0\ch04-1.AssemblyInfo.cs
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\obj\Debug\net6.0\ch04-1.csproj.CoreCompileInputs.cache
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\obj\Debug\net6.0\ch04-1.dll
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\obj\Debug\net6.0\refint\ch04-1.dll
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\obj\Debug\net6.0\ch04-1.pdb
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\obj\Debug\net6.0\ch04-1.genruntimeconfig.cache
+C:\Users\502\Desktop\고니\Csstudio\ch04-1\obj\Debug\net6.0\ref\ch04-1.dll
