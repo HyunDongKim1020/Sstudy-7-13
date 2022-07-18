@@ -11,7 +11,7 @@ namespace Ch05.sub3
         //싱글톤 객체
         private static Calc instance = new Calc();
         public static Calc Instance { get => instance; }
-        private Calc() { }
+        private Calc() { }    // 외부에서 해당 클래스를 new생성못하도록 차단
         
         public int Plus(int x , int y)
         {

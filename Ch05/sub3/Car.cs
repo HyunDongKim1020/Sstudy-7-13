@@ -12,7 +12,18 @@ namespace Ch05.Sub3
         public string name;
         public string color;
         public int speed;
+        private int Static count;
     }
+
+    //생성자
+    public Car(string name, string color, int speed)
+        {
+            this.name = name;
+            this.color = color;
+            this.speed = speed;
+            count++;
+        }
+        
 
         //기능(메서드)
         public void SpeedUP(int speed)
