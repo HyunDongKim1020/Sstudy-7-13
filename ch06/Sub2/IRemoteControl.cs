@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace ch06.Sub2
 {
-    internal class IRemoteControl
+    //인터페이스 : 오직 추상메서드만 갖는 구조체
+    internal interface IRemoteControl
     {
+        public abstract void PowerOn();
+        public abstract void PowerOff();
+
+        //abstract생략
+        public void ChUp();
+        public void ChDown();
+
+        public void SoundUp();
+        public void SoundDown();
+
     }
 }

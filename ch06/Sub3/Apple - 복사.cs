@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ch06.Sub2
+namespace ch06.Sub3
 {
-    internal interface Computer
+    internal class Apple
     {
-        public void Booting();
-        public void AccessInternet();
-        
     }
 }

@@ -6,7 +6,22 @@ using System.Threading.Tasks;
 
 namespace ch06.Sub2
 {
-    internal class Cable
+    internal class Cable : Socket
     {
+        private Bulb bulb; 
+
+        public Cable(Bulb bulb)
+        {
+            this.bulb = bulb;
+        }
+
+        public void SwitchOn()
+        {
+            bulb.LightOn();
+        }
+        public void SwtchOff()
+        {
+            bulb.LightOff();
+        }
     }
 }
