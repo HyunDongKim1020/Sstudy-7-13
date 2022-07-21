@@ -11,27 +11,16 @@ namespace Exam._01
         static void Main(string[] args)
         {
 
-            int count = 0;
-            for (int i = 0; i <= 9; i++)
+            string Strscore = "60,72,82,86,92";
+            string[] scores = {","};
+
+            int total = 0; 
+
+            for (int i = 0; i < scores.Length; i++)
             {
-                if (i <= 5)
-                {
-                    count++;
-                }
-                else
-                {
-                    count--;
-                }
+                total += int.Parse(Strscore);
             }
-            for (int j = 0; j < 5-count; j++)
-            {
-                Console.WriteLine("");
-            }
-            for (int k = 0; k < 2*count+1; k++)
-            {
-                Console.WriteLine("*");
-            }
-            Console.WriteLine();
+            Console.WriteLine("총점: "+ total);
         }
     }
 }
