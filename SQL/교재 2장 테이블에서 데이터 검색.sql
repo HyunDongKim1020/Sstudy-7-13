@@ -109,4 +109,41 @@ SELECT * FROM sample31 ORDER BY address;
 SELECT * FROM sample31 ORDER BY age DESC;
 #ㄴ내림차순
 SELECT * FROM sample31 ORDER BY age ASC;
-#ㄴ오름차순
+#ㄴ오름차순 
+
+CREATE TABLE `sample311` (
+`a` INT,
+`b` INT
+);
+
+INSERT INTO `sample311` VALUES (1,1);
+INSERT INTO `sample311` VALUES (2,2);
+INSERT INTO `sample311` VALUES (10,10);
+INSERT INTO `sample311` VALUES (11,11);
+
+#p100
+SELECT * FROM `sample311` ORDER BY a;
+
+CREATE TABLE `sample32`(
+`a` INT,
+`b` INT
+);
+
+INSERT INTO `sample32` VALUES (1,1);
+INSERT INTO `sample32` VALUES (2,1);
+INSERT INTO `sample32` VALUES (2,2);
+INSERT INTO `sample32` VALUES (1,3);
+INSERT INTO `sample32` VALUES (1,2);
+
+SELECT * FROM `sample32` ORDER BY `a`;
+
+SELECT * FROM `sample32` ORDER BY `a`,`b`;
+
+CREATE TABLE `sample33` (`no` INT);
+
+INSERT INTO `sample33` VALUES `no` 1;
+
+
+
+
+
