@@ -42,7 +42,7 @@ INSERT INTO `Product`  VALUES (3,'포카칩',3600,1700,'오리온');
 INSERT INTO `Product`  VALUES (4,'양파링',1250,1800,'농심');
 INSERT INTO `Product`  VALUES (5,'죠리퐁',2200,NULL,'크라운');
 INSERT INTO `Product`  VALUES (6,'마카렛트',3500,3500,'롯데');
-INSERT INTO `Product`  VALUES (7,'뿌셔뿌셔',1650,1200,'오뚜기');
+INSERT INTO `Product`  VALUES (7,'뿌셔뿌셔',	1650,1200,'오뚜기');
 
 INSERT INTO `Order` 	  VALUES (1,'kimcc',3,2,20220701131510);
 INSERT INTO `Order` 	  VALUES (2,'kimys',4,1,20220701141611);
@@ -102,8 +102,13 @@ SELECT * FROM `customer` WHERE `hp` IS NULL;
 #실습 6-18
 SELECT * FROM `customer` WHERE `addr` IS NOT NULL;
 
+#실습 6-19
+SELECT * FROM `customer` order BY `rdate` DESC
 
+#실습6-20
+SELECT * FROM `order` WHERE `ordercount` >=3 order BY `ordercount`  DESC, `orderProduct` ASC;
 
+SELECT * FROM `order` WHERE `orderCount` >= 3 ORDER BY `orderCount` DESC, `orderProduct` ASC;
 
 
 
