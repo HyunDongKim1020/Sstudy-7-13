@@ -1,0 +1,17 @@
+C:\Users\502\Desktop\고니\Csstudio\ch11\bin\Debug\net6.0-windows\ch11.exe
+C:\Users\502\Desktop\고니\Csstudio\ch11\bin\Debug\net6.0-windows\ch11.deps.json
+C:\Users\502\Desktop\고니\Csstudio\ch11\bin\Debug\net6.0-windows\ch11.runtimeconfig.json
+C:\Users\502\Desktop\고니\Csstudio\ch11\bin\Debug\net6.0-windows\ch11.dll
+C:\Users\502\Desktop\고니\Csstudio\ch11\bin\Debug\net6.0-windows\ch11.pdb
+C:\Users\502\Desktop\고니\Csstudio\ch11\obj\Debug\net6.0-windows\ch11.csproj.AssemblyReference.cache
+C:\Users\502\Desktop\고니\Csstudio\ch11\obj\Debug\net6.0-windows\ch11.csproj.GenerateResource.cache
+C:\Users\502\Desktop\고니\Csstudio\ch11\obj\Debug\net6.0-windows\ch11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\502\Desktop\고니\Csstudio\ch11\obj\Debug\net6.0-windows\ch11.AssemblyInfoInputs.cache
+C:\Users\502\Desktop\고니\Csstudio\ch11\obj\Debug\net6.0-windows\ch11.AssemblyInfo.cs
+C:\Users\502\Desktop\고니\Csstudio\ch11\obj\Debug\net6.0-windows\ch11.csproj.CoreCompileInputs.cache
+C:\Users\502\Desktop\고니\Csstudio\ch11\obj\Debug\net6.0-windows\ch11.dll
+C:\Users\502\Desktop\고니\Csstudio\ch11\obj\Debug\net6.0-windows\refint\ch11.dll
+C:\Users\502\Desktop\고니\Csstudio\ch11\obj\Debug\net6.0-windows\ch11.pdb
+C:\Users\502\Desktop\고니\Csstudio\ch11\obj\Debug\net6.0-windows\ch11.genruntimeconfig.cache
+C:\Users\502\Desktop\고니\Csstudio\ch11\obj\Debug\net6.0-windows\ref\ch11.dll
+C:\Users\502\Desktop\고니\Csstudio\ch11\obj\Debug\net6.0-windows\ch11.btnHp.resources
