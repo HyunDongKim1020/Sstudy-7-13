@@ -1,0 +1,17 @@
+C:\Users\502\Desktop\고니\Csstudio\project5\bin\Debug\net6.0-windows\project5.exe
+C:\Users\502\Desktop\고니\Csstudio\project5\bin\Debug\net6.0-windows\project5.deps.json
+C:\Users\502\Desktop\고니\Csstudio\project5\bin\Debug\net6.0-windows\project5.runtimeconfig.json
+C:\Users\502\Desktop\고니\Csstudio\project5\bin\Debug\net6.0-windows\project5.dll
+C:\Users\502\Desktop\고니\Csstudio\project5\bin\Debug\net6.0-windows\project5.pdb
+C:\Users\502\Desktop\고니\Csstudio\project5\obj\Debug\net6.0-windows\project5.csproj.AssemblyReference.cache
+C:\Users\502\Desktop\고니\Csstudio\project5\obj\Debug\net6.0-windows\project5.Form1.resources
+C:\Users\502\Desktop\고니\Csstudio\project5\obj\Debug\net6.0-windows\project5.csproj.GenerateResource.cache
+C:\Users\502\Desktop\고니\Csstudio\project5\obj\Debug\net6.0-windows\project5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\502\Desktop\고니\Csstudio\project5\obj\Debug\net6.0-windows\project5.AssemblyInfoInputs.cache
+C:\Users\502\Desktop\고니\Csstudio\project5\obj\Debug\net6.0-windows\project5.AssemblyInfo.cs
+C:\Users\502\Desktop\고니\Csstudio\project5\obj\Debug\net6.0-windows\project5.csproj.CoreCompileInputs.cache
+C:\Users\502\Desktop\고니\Csstudio\project5\obj\Debug\net6.0-windows\project5.dll
+C:\Users\502\Desktop\고니\Csstudio\project5\obj\Debug\net6.0-windows\refint\project5.dll
+C:\Users\502\Desktop\고니\Csstudio\project5\obj\Debug\net6.0-windows\project5.pdb
+C:\Users\502\Desktop\고니\Csstudio\project5\obj\Debug\net6.0-windows\project5.genruntimeconfig.cache
+C:\Users\502\Desktop\고니\Csstudio\project5\obj\Debug\net6.0-windows\ref\project5.dll
